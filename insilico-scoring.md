@@ -101,7 +101,7 @@ The Splicing-level Estimation is due to the de novo donor probability. The de no
 
 ### Intronic Variant Located in Wild-Type Splice Site's Donor Region
 
-### Example: [c.441+2t>G](http://brcaexchange.org/variant/104996)
+Example: [c.441+2t>G](http://brcaexchange.org/variant/104996)
 
 Because the variant is located in an intron and a wild-type donor splice site region, the following values are used in predicting the *In Silico* Prior Probability of Pathogenicity:
 
